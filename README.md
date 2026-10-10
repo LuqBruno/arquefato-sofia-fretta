@@ -1,4 +1,4 @@
-# Arquefato Arquitetura · prévia (`main-06`)
+# Arquefato Arquitetura · prévia (`portal-v3`)
 
 Landing page demonstrativa de Arquefato Arquitetura e Sofia Fretta.
 
@@ -6,4 +6,6 @@ Esta publicação é uma prévia para avaliação. Permanecem informações e us
 
 O pavilhão exibido na abertura é um estudo 3D conceitual criado para esta apresentação, não representa projeto ou obra realizada pela Arquefato. As referências de projetos conduzem às fontes públicas originais.
 
-Nesta atualização, o percurso de scroll do hero ganhou mais duração e o pôster acompanha o zoom enquanto o 3D carrega ou como alternativa estática. A cena 3D desaparece antes de atravessar a textura do letreiro; o emblema oficial permanece nítido e a passagem revela Sofia junto com seu texto. O emblema foi integrado ao cabeçalho sem o quadrado preto incorporado à imagem.
+Revisão de 10/10/2026: a câmera aproxima a arquitetura em uma curva contínua, alinha com a marca oficial e sua projeção orienta o portal. Retrato e texto entram em momentos distintos, preservando a leitura. Enquadramento próprio no celular, materiais/luz/sombras refinados e novos pôsteres responsivos. A marca original não foi redesenhada.
+
+Motion 14 e Three.js existentes. Rolagem nativa e reversível, atalho para projetos, imagem alternativa sem WebGL e fluxo estático com movimento reduzido. Verificados Chromium em 360, 390, 430, 720, 768, 1024 e 1440 px, paisagem, menu/Escape, imagens, WhatsApp preservado, ida/volta do scroll e fallbacks. TypeScript, build e 35 testes passaram. Sem medição de FPS/Lighthouse ou teste em aparelho físico/Safari.
