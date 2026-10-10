@@ -1,4 +1,4 @@
-# Arquefato Arquitetura · prévia (`main-03`)
+# Arquefato Arquitetura · prévia (`main-04`)
 
 Landing page demonstrativa de Arquefato Arquitetura e Sofia Fretta.
 
@@ -6,4 +6,4 @@ Esta publicação é uma prévia para avaliação. Permanecem informações e us
 
 O pavilhão exibido na abertura é um estudo 3D conceitual criado para esta apresentação, não representa projeto ou obra realizada pela Arquefato. As referências de projetos conduzem às fontes públicas originais.
 
-Nesta atualização, o percurso de scroll do hero ganhou mais duração para tornar a transição de arquitetura → emblema → Sofia mais perceptível; o emblema foi integrado ao cabeçalho sem o quadrado preto incorporado à imagem.
+Nesta atualização, o percurso de scroll do hero ganhou mais duração e o pôster acompanha o zoom enquanto o 3D carrega ou como alternativa estática; a transição conduz da arquitetura ao emblema e a Sofia. O emblema foi integrado ao cabeçalho sem o quadrado preto incorporado à imagem.
